@@ -1,1 +1,7 @@
 # BA-780-Chicago-Project
+
+Team project at Boston University (BU-BA775-BusinessAnalyticsToolbox SQL and BU-BA780-IntroductionToDataAnalytics Python). Analysis of the effect of Covid-19 on the crime scene in Chicago.
+
+## Executive Summary
+
+The analysis of the different datasets has shown that a connection between COVID-19 and crimes in Chicago can indeed be established. In general, the following analysis shows that the crimes in 2020 are significantly lower compared to the crimes in 2019 (we decided to use 2019 because our previous analysis shows that the crime cases were consistent over the last 6 years). Especially in the months when the corona virus was new in the USA, the number of crimes decreased up to 69.7%. By comparing the number of different types of crimes in 2019 and 2020, we found that the top 5 crime types in 2019 and 2020 are the same. However, in 2020, the quantity of crimes in the top 5 crime types has dropped significantly, with theft dropping the most by 32.67%. The same thing occurred at the crime location. By comparing the number of crimes in different locations in 2019 and 2020, the number of crimes on sidewalks dropped the most by 33.10%. It should be noted that the analysis was not comprehensive enough to attribute the decline in crimes exclusively to the corona virus. In addition, arrested rates decreased due to COVID-19 because of the police strike and mitigation of the spread of COVID-19 in prisons. Lastly, while overall crime rates went down, we found that domestic violence overall increased by about 3% from 2019 to 2020.
